@@ -9,4 +9,6 @@ prepend.pop("Odie")
 
 const removeLast = ["Milo", "Otis", "Garfield"]
 
+removeLast.
+
 const removeFirst = ["Milo", "Otis", "Garfield"]
